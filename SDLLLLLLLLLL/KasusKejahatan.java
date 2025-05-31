@@ -6,6 +6,8 @@ public class KasusKejahatan implements Comparable<KasusKejahatan> {
     public String status;
     public String tingkat;
 
+    // YAELAHHHHHHH MALAH LUPAA GETTER SETTERRRRRR PUKIMAKKKKKKKKKKKKKKK
+
     public KasusKejahatan(String idKasus, String jenis, String lokasi, String tanggal, String status, String tingkat) {
         this.idKasus = idKasus;
         this.jenis = jenis;
